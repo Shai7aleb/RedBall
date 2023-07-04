@@ -6,7 +6,7 @@
 # User-specific files
 *.rsuser
 *.suo
-*.user
+#*.user  Apperantly I need this particular file to store the working directory
 *.userosscache
 *.sln.docstates
 
