@@ -16,5 +16,5 @@ click on the green run button at the top
 
 Now the simulation should run
 # Demo
-[video showing simulation in action](https://github.com/Shai7aleb/RedBall/assets/96475434/baded991-2bd8-4651-ac49-aaa50d018498)
+[video showing simulation in action](https://github.com/Shai7aleb/RedBall/assets/96475434/515dca67-78b9-45e8-bc09-b16333d8e8a1)
 
